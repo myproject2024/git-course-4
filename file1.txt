@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Lorem ipsum dolor sit amet, 
 consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
 labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -14,3 +15,6 @@ labore et dolore magna aliqua. Ut enim ad minim veniam
 
 
 This is a test
+=======
+webprog.io
+>>>>>>> 0505c8461619d3c30d96918e1ff8a939b3fbc7cb
